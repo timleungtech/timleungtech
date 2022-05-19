@@ -14,8 +14,8 @@
 
 <h3 align="center">Connect with me</h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/timleungtech" target="blank"><img src="https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=white" height=25></a>
-<a href="https://twitter.com/timleungtech" target="blank"><img src="https://img.shields.io/badge/Twitter-000000?style=flat-square&logo=twitter&logoColor=white" height=25></a>
+<a href="https://www.linkedin.com/in/timleungtech" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=white" height=25></a>
+<a href="https://twitter.com/timleungtech" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?style=flat-square&logo=twitter&logoColor=white" height=25></a>
 </p>
 
 <!--
