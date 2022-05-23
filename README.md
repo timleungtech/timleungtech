@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tim Leung</h1>
+<h1 align="center">Hi 👋, I'm Tim Leung from NY. Welcome to my GitHub profile!</h1>
 
 <h3 align="center">Languages and Tools</h3>
 <p align="center">
@@ -18,6 +18,8 @@
 <a href="https://www.linkedin.com/in/timleungtech" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&labelColor=111111" height=25></a>
 <a href="https://twitter.com/timleungtech" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?style=flat-square&logo=twitter&labelColor=111111" height=25></a>
 </p>
+
+<p align="center"><a href='#'><img src="https://raw.githubusercontent.com/timleungtech/timleungtech/main/banner.png" height=200></a></p>
 
 <!--
 **timleungtech/timleungtech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
