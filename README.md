@@ -1,5 +1,3 @@
-<h1 align="center">Hi 👋, I'm Tim Leung from NY. Welcome to my GitHub profile!</h1>
-
 <h3 align="center">Languages and Tools</h3>
 <p align="center">
 <a href='#'><img src="https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&labelColor=0d1117" height=25></a>
@@ -14,9 +12,9 @@
 
 <h3 align="center">Connect with me</h3>
 <p align="center">
-<a href="mailto:timleungtech@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-0d1117?style=flat-square&logo=gmail&labelColor=0d1117" height=25></a>
-<a href="https://www.linkedin.com/in/timleungtech" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&labelColor=0d1117" height=25></a>
 <a href="https://twitter.com/timleungtech" target="_blank"><img src="https://img.shields.io/badge/Twitter-0d1117?style=flat-square&logo=twitter&labelColor=0d1117" height=25></a>
+<a href="https://www.linkedin.com/in/timleungtech" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&labelColor=0d1117" height=25></a>
+<a href="mailto:timleungtech@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-0d1117?style=flat-square&logo=gmail&labelColor=0d1117" height=25></a>
 </p>
 
 <p align="center"><a href='#'><img src="https://raw.githubusercontent.com/timleungtech/timleungtech/main/banner.png" height=120></a></p>
