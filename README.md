@@ -8,7 +8,7 @@
 I have experience with writing JavaScript and Python scripts to automate the manipulation of PDF files like sorting, filtering, and adding custom watermarks. I have built reports using data gathered from APIs as well as parsing data gathered through rendered web pages. I have built CRUD apps by writing all the routes in the back-end using Node and Express, Postman for testing, and connecting front-end, back-end, and MongoDB database to create a full stack web application.
 </p>
 <p>
-Please feel free to <a href='https://github.com/timleungtech/timleungtech/edit/main/README.md#how-to-reach-me'>reach out to me</a> if you need an engineer to build out your next custom solution!
+Please feel free to <a href='https://github.com/timleungtech#how-to-reach-me'>reach out to me</a> if you need an engineer to build out your next custom solution!
 </p>
 
 <h3>Skills:</h3>
