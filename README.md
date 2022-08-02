@@ -8,7 +8,14 @@
 I am experienced with writing JavaScript and Python scripts to automate the manipulation of PDF files like sorting, filtering, and adding custom watermarks. I built reports using data gathered from APIs as well as parsing data gathered through rendered web pages. I have also built CRUD apps by writing all the routes in the back-end using Node and Express, Postman for testing, and connecting front-end, back-end, and MongoDB databases to create full stack web applications.
 </p>
 <p>
-Please feel free to <a href='https://github.com/timleungtech#skills'>reach out to me</a> if you need an engineer to build out your next custom solution!
+Please feel free to <a href='https://github.com/timleungtech#how-to-reach-me'>reach out to me</a> if you need an engineer to build out your next custom solution!
+</p>
+
+<h3>How to reach me:</h3>
+<p>
+<a href="mailto:timleungtech@gmail.com" target="_blank"><img src="https://img.shields.io/badge/timleungtech@gmail.com-0d1117?style=flat-square&logo=gmail&labelColor=0d1117" height=25></a><br>
+<a href="https://twitter.com/timleungtech" target="_blank"><img src="https://img.shields.io/badge/@timleungtech-0d1117?style=flat-square&logo=twitter&labelColor=0d1117" height=25></a><br>
+<a href="https://www.linkedin.com/in/timleungtech" target="_blank"><img src="https://img.shields.io/badge/linkedin.com/in/timleungtech-0d1117?style=flat-square&logo=linkedin&labelColor=0d1117" height=25></a>
 </p>
 
 <h3>Skills:</h3>
@@ -24,16 +31,9 @@ Please feel free to <a href='https://github.com/timleungtech#skills'>reach out t
 <a href='#'><img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&labelColor=0d1117" height=25></a>
 </p>
 
-<h3>How to reach me:</h3>
-<p>
-<a href="mailto:timleungtech@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-0d1117?style=flat-square&logo=gmail&labelColor=0d1117" height=25></a><br>
-<a href="https://twitter.com/timleungtech" target="_blank"><img src="https://img.shields.io/badge/Twitter-0d1117?style=flat-square&logo=twitter&labelColor=0d1117" height=25></a><br>
-<a href="https://www.linkedin.com/in/timleungtech" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&labelColor=0d1117" height=25></a>
-</p>
-
+<!--
 <p><a href='#'><img src="https://raw.githubusercontent.com/timleungtech/timleungtech/main/banner.png" height=120></a></p>
 
-<!--
 **timleungtech/timleungtech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
