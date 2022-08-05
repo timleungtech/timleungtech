@@ -1,14 +1,12 @@
 <h1>I'm Tim Leung</h1>
 
-<h3>A fullstack software engineer based in NYC looking to collaborate on exciting projects!</h3>
-
-<h3>About me:</h3>
+<h3>A fullstack software engineer based in NYC.</h3>
 
 <p>
-I am experienced with writing JavaScript and Python scripts to automate the manipulation of PDF files like sorting, filtering, and adding custom watermarks. I built reports using data gathered from APIs as well as parsing data gathered through rendered web pages. I have also built CRUD apps by writing all the routes in the back-end using Node and Express, Postman for testing, and connecting front-end, back-end, and MongoDB databases to create full stack web applications.
+I have written JavaScript and Python scripts to automate the manipulation of PDF files like sorting, filtering, and adding custom watermarks. I built a QR code generator using React and a report generator using data gathered from APIs, as well as parsing data gathered through rendered web pages. I built CRUD apps by writing all the routes in the back-end using Node and Express, Postman for testing, and connecting front-end, back-end, and MongoDB databases to create full stack web applications.
 </p>
 <p>
-Please feel free to <a href='https://github.com/timleungtech#how-to-reach-me'>reach out to me</a> if you need an engineer to build out your next custom solution!
+Please <a href='https://github.com/timleungtech#how-to-reach-me'>reach out to me</a> if you need help building out your next product!
 </p>
 
 <h3>How to reach me:</h3>
