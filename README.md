@@ -30,9 +30,9 @@ Please <a href='https://github.com/timleungtech#how-to-reach-me'>reach out to me
 </p>
 
 <h3>Recent Projects:</h3>
-<a href="https://qrcodegenerator-timleungtech.herokuapp.com/"><img src="https://github.com/timleungtech/timleungtech/blob/main/qrcodegenerator.png?raw=true" width="33%"></a>
-<a href="https://vibrantflowsalon.netlify.app/"><img src="https://github.com/timleungtech/timleungtech/blob/main/vibrantflowsalon.png?raw=true" width="33%"></a>
-<a href="https://github.com/timleungtech/fileuploader"><img src="https://github.com/timleungtech/timleungtech/blob/main/fileuploader.png?raw=true" width="33%"></a>
+<a href="https://qrcodegenerator-timleungtech.herokuapp.com/"><img src="https://github.com/timleungtech/timleungtech/blob/main/qrcodegenerator.png?raw=true" width="30%"></a>
+<a href="https://vibrantflowsalon.netlify.app/"><img src="https://github.com/timleungtech/timleungtech/blob/main/vibrantflowsalon.png?raw=true" width="30%"></a>
+<a href="https://github.com/timleungtech/fileuploader"><img src="https://github.com/timleungtech/timleungtech/blob/main/fileuploader.png?raw=true" width="30%"></a>
 
 <!--
 <p><a href='#'><img src="https://raw.githubusercontent.com/timleungtech/timleungtech/main/banner.png" height=120></a></p>
