@@ -29,6 +29,9 @@ Please <a href='https://github.com/timleungtech#how-to-reach-me'>reach out to me
 <a href='#'><img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&labelColor=0d1117" height=25></a>
 </p>
 
+<h3>Recent Projects:</h3>
+<img src="https://github.com/timleungtech/timleungtech/blob/main/recentworks.png?raw=true">
+
 <!--
 <p><a href='#'><img src="https://raw.githubusercontent.com/timleungtech/timleungtech/main/banner.png" height=120></a></p>
 
