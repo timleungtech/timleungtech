@@ -30,6 +30,8 @@ Please <a href='https://github.com/timleungtech#how-to-reach-me'>reach out to me
 <a href='#'><img src="https://img.shields.io/badge/MongoDB-0d1117?style=flat-square&logo=mongodb&labelColor=0d1117" height=25></a><br>
 <a href='#'><img src="https://img.shields.io/badge/HTML5-0d1117?style=flat-square&logo=html5&labelColor=0d1117" height=25></a><br>
 <a href='#'><img src="https://img.shields.io/badge/CSS3-0d1117?style=flat-square&logo=css3&labelColor=0d1117" height=25></a><br>
+<a href='#'><img src="https://img.shields.io/badge/Bootstrap-0d1117?style=flat-square&logo=bootstrap&labelColor=0d1117" height=25></a><br>
+<a href='#'><img src="https://img.shields.io/badge/Tailwind-0d1117?style=flat-square&logo=tailwindcss&labelColor=0d1117" height=25></a><br>
 <a href='#'><img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&labelColor=0d1117" height=25></a>
 </p>
 
