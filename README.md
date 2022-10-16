@@ -37,6 +37,7 @@ Please <a href='https://github.com/timleungtech#how-to-reach-me'>reach out to me
 
 <h3>Recent Projects:</h3>
 <a href="https://github.com/timleungtech/storybooks"><img src="https://github.com/timleungtech/timleungtech/blob/main/storybooks.gif?raw=true" width="30%"></a>
+<a href="https://github.com/timleungtech/binary-upload-boom"><img src="https://github.com/timleungtech/timleungtech/blob/main/binaryuploadboom.png?raw=true" width="30%"></a>
 <a href="https://vibrantflowsalon.netlify.app/"><img src="https://github.com/timleungtech/timleungtech/blob/main/vibrantflowsalon.png?raw=true" width="30%"></a>
 <a href="https://github.com/timleungtech/phonebook-api"><img src="https://github.com/timleungtech/timleungtech/blob/main/phonebook.png?raw=true" width="30%"></a>
 <a href="https://github.com/timleungtech/qrcodegenerator"><img src="https://github.com/timleungtech/timleungtech/blob/main/qrcodegenerator.png?raw=true" width="30%"></a>
