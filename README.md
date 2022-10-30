@@ -50,12 +50,17 @@ Please <a href='https://github.com/timleungtech#how-to-reach-me'>reach out to me
       <p>Responsive website for a local salon.</p>
     </td>
     <td width="30%">
+      <h4>FinTech Website</h4>
+      <a href="https://tailwind-daisyui.netlify.app/"><img src="https://github.com/timleungtech/timleungtech/blob/main/tailwinddaisyui.png?raw=true"></a>
+      <p>Responsive website built with Tailwind and DaisyUI components.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="30%">
       <h4>Phonebook App</h4>
       <a href="https://github.com/timleungtech/phonebook-api"><img src="https://github.com/timleungtech/timleungtech/blob/main/phonebook.png?raw=true"></a>
       <p>Phonebook CRUD app made with Node, Express, MongoDB, EJS, and Tailwind.</p>
     </td>
-  </tr>
-  <tr>
     <td width="30%">
       <h4>Storybooks App</h4>
       <a href="https://github.com/timleungtech/storybooks"><img src="https://github.com/timleungtech/timleungtech/blob/main/storybooks.gif?raw=true"></a>
@@ -66,13 +71,13 @@ Please <a href='https://github.com/timleungtech#how-to-reach-me'>reach out to me
       <a href="https://github.com/timleungtech/binary-upload-boom"><img src="https://github.com/timleungtech/timleungtech/blob/main/binaryuploadboom.png?raw=true"></a>
       <p>The 100Devs Social Network.</p>
     </td>
+  </tr>
+  <tr>
     <td width="30%">
       <h4>QR Code Generator</h4>
       <a href="https://github.com/timleungtech/qrcodegenerator"><img src="https://github.com/timleungtech/timleungtech/blob/main/qrcodegenerator.png?raw=true"></a>
       <p>Generates QR code with React that repaints the PNG when client changes the state of text in form.</p>
     </td>
-  </tr>
-  <tr>
     <td width="30%">
       <h4>Drag and Drop File Upload</h4>
       <a href="https://github.com/timleungtech/fileuploader"><img src="https://github.com/timleungtech/timleungtech/blob/main/fileuploader.png?raw=true"></a>
