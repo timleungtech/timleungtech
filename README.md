@@ -43,12 +43,12 @@ Please <a href='https://github.com/timleungtech#how-to-reach-me'>reach out to me
   <tr>
     <td width="30%">
       <h4>Smart Hx App</h4>
-      <a href="https://smarthx.cyclic.app/"><img src="https://github.com/timleungtech/web-app/blob/main/smarthxapp.png?raw=true"></a>
+      <a href="https://smarthx.cyclic.app/"><img src="https://github.com/timleungtech/timleungtech/blob/main/smarthxapp.png?raw=true"></a>
       <p>Smart Hx is an Electronic Health Records (EHR) app using a Rest API to perform CRUD operations with Node, Express, EJS, MongoDB, and login with Passport, local auth strategy, and Sessions.</p>
     </td>
     <td width="30%">
       <h4>Datadog Landing Page</h4>
-      <a href="https://chic-chebakia-cfe65d.netlify.app/"><img src="https://github.com/timleungtech/datadog-technical/blob/main/datadog-landingpage.png?raw=true"></a>
+      <a href="https://chic-chebakia-cfe65d.netlify.app/"><img src="https://github.com/timleungtech/timleungtech/blob/main/datadog-landingpage.png?raw=true"></a>
       <p>Datadog landing page built from a Figma mockup with Hugo static site generator, Bootstrap components, and Sass CSS preprocessor. Project is deployed and hosted using Amazon S3 and CloudFront, and also on Netlify.</p>
     </td>
     <td width="30%">
