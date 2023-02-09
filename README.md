@@ -38,16 +38,37 @@ Please <a href='https://github.com/timleungtech#how-to-reach-me'>reach out to me
 <h3>Recent Projects:</h3>
 <div align="center">
 <table>
+  
+  <!-- Row 1 -->
   <tr>
+    <td width="30%">
+      <h4>Smart Hx App</h4>
+      <a href="https://smarthx.cyclic.app/"><img src="https://github.com/timleungtech/web-app/blob/main/smarthxapp.png?raw=true"></a>
+      <p>Smart Hx is an Electronic Health Records (EHR) app using a Rest API to perform CRUD operations with Node, Express, EJS, MongoDB, and login with Passport, local auth strategy, and Sessions.</p>
+    </td>
+    <td width="30%">
+      <h4>Datadog Landing Page</h4>
+      <a href="https://chic-chebakia-cfe65d.netlify.app/"><img src="https://github.com/timleungtech/datadog-technical/blob/main/datadog-landingpage.png?raw=true"></a>
+      <p>Datadog landing page built from a Figma mockup with Hugo static site generator, Bootstrap components, and Sass CSS preprocessor. Project is deployed and hosted using Amazon S3 and CloudFront, and also on Netlify.</p>
+    </td>
     <td width="30%">
       <h4>Pokemon Memory Game</h4>
       <a href="https://timleungtech.github.io/pokemon-memory-game/"><img src="https://github.com/timleungtech/pokemon-memory-game/blob/main/poke-game.gif?raw=true"></a>
-      <p>Pokemon memory game. Match all the Pokemon to win!</p>
+      <p>Pokemon memory game. Match all the Pokemon to win! Made with client-side JavaScript.</p>
+    </td>
+  </tr>
+  
+  <!-- Row 2 -->
+  <tr>
+    <td width="30%">
+      <h4>Storybooks App</h4>
+      <a href="https://github.com/timleungtech/storybooks"><img src="https://github.com/timleungtech/timleungtech/blob/main/storybooks.gif?raw=true"></a>
+      <p>Full stack Storybooks app made with Node, Express, Passport, Google OAuth, MongoDB, Mongoose, Morgan, Handlebars, Sessions/Cookies.</p>
     </td>
     <td width="30%">
       <h4>Vibrant Flow Salon</h4>
       <a href="https://vibrantflowsalon.netlify.app/"><img src="https://github.com/timleungtech/timleungtech/blob/main/vibrantflowsalon.png?raw=true"></a>
-      <p>Responsive website for a local salon.</p>
+      <p>Responsive website for a local salon utilizing media queries for various-sized devices.</p>
     </td>
     <td width="30%">
       <h4>FinTech Website</h4>
@@ -55,35 +76,34 @@ Please <a href='https://github.com/timleungtech#how-to-reach-me'>reach out to me
       <p>Responsive website built with Tailwind and DaisyUI components.</p>
     </td>
   </tr>
+  
+  <!-- Row 3 -->
   <tr>
-    <td width="30%">
-      <h4>Phonebook App</h4>
-      <a href="https://github.com/timleungtech/phonebook-api"><img src="https://github.com/timleungtech/timleungtech/blob/main/phonebook.png?raw=true"></a>
-      <p>Phonebook CRUD app made with Node, Express, MongoDB, EJS, and Tailwind.</p>
-    </td>
-    <td width="30%">
-      <h4>Storybooks App</h4>
-      <a href="https://github.com/timleungtech/storybooks"><img src="https://github.com/timleungtech/timleungtech/blob/main/storybooks.gif?raw=true"></a>
-      <p>Full stack Storybooks app made with Node, Express, MongoDB, and Google OAuth.</p>
-    </td>
     <td width="30%">
       <h4>Binary Upload Boom</h4>
       <a href="https://github.com/timleungtech/binary-upload-boom"><img src="https://github.com/timleungtech/timleungtech/blob/main/binaryuploadboom.png?raw=true"></a>
-      <p>The 100Devs Social Network.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="30%">
-      <h4>QR Code Generator</h4>
-      <a href="https://github.com/timleungtech/qrcodegenerator"><img src="https://github.com/timleungtech/timleungtech/blob/main/qrcodegenerator.png?raw=true"></a>
-      <p>Generates QR code with React that repaints the PNG when client changes the state of text in form.</p>
+      <p>The 100Devs Social Network. Cloudinary is used for media storage. </p>
     </td>
     <td width="30%">
       <h4>Drag and Drop File Upload</h4>
       <a href="https://github.com/timleungtech/fileuploader"><img src="https://github.com/timleungtech/timleungtech/blob/main/fileuploader.png?raw=true"></a>
       <p>Upload files to server with drag-and-drop using multer.</p>
     </td>
+    <td width="30%">
+      <h4>QR Code Generator</h4>
+      <a href="https://github.com/timleungtech/qrcodegenerator"><img src="https://github.com/timleungtech/timleungtech/blob/main/qrcodegenerator.png?raw=true"></a>
+      <p>Generates QR code with React that instantly repaints the PNG when client changes the state of text input field of the form.</p>
+    </td>
   </tr>
+  
+  <!-- Row 4 -->
+<!--   <tr>
+    <td width="30%">
+      <h4>Phonebook App</h4>
+      <a href="https://github.com/timleungtech/phonebook-api"><img src="https://github.com/timleungtech/timleungtech/blob/main/phonebook.png?raw=true"></a>
+      <p>Phonebook CRUD app made with Node, Express, MongoDB, EJS, and Tailwind.</p>
+    </td>
+  </tr> -->
 </table>
 </div>
 
