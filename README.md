@@ -61,9 +61,9 @@ Please <a href='https://github.com/timleungtech#how-to-reach-me'>reach out to me
   <!-- Row 2 -->
   <tr>
     <td width="30%">
-      <h4>Storybooks App</h4>
-      <a href="https://github.com/timleungtech/storybooks"><img src="https://github.com/timleungtech/timleungtech/blob/main/storybooks.gif?raw=true"></a>
-      <p>Full stack Storybooks app made with Node, Express, Passport, Google OAuth, MongoDB, Mongoose, Morgan, Handlebars, Sessions/Cookies.</p>
+      <h4>PDF Processor</h4>
+      <a href="https://github.com/timleungtech/pdfprocessor"><img src="https://github.com/timleungtech/timleungtech/blob/main/pdf-processor-react-flask.png?raw=true"></a>
+      <p>PDF processing web app created with React and Flask that sorts pages of an inputted PDF file by extracting text from each page of the original document.</p>
     </td>
     <td width="30%">
       <h4>Vibrant Flow Salon</h4>
@@ -85,9 +85,9 @@ Please <a href='https://github.com/timleungtech#how-to-reach-me'>reach out to me
       <p>The 100Devs Social Network. Cloudinary is used for media storage. </p>
     </td>
     <td width="30%">
-      <h4>Drag and Drop File Upload</h4>
-      <a href="https://github.com/timleungtech/fileuploader"><img src="https://github.com/timleungtech/timleungtech/blob/main/fileuploader.png?raw=true"></a>
-      <p>Upload files to server with drag-and-drop using multer.</p>
+      <h4>Storybooks App</h4>
+      <a href="https://github.com/timleungtech/storybooks"><img src="https://github.com/timleungtech/timleungtech/blob/main/storybooks.gif?raw=true"></a>
+      <p>Full stack Storybooks app made with Node, Express, Passport, Google OAuth, MongoDB, Mongoose, Morgan, Handlebars, Sessions/Cookies.</p>
     </td>
     <td width="30%">
       <h4>QR Code Generator</h4>
