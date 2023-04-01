@@ -5,9 +5,6 @@
 <p>
 I have written JavaScript and Python scripts to automate the manipulation of PDF files like sorting, filtering, and adding custom watermarks. I built a QR code generator using React and a report generator using data gathered from APIs, as well as parsing data gathered through rendered web pages. I built CRUD apps by writing all the routes in the back-end using Node and Express, Postman for testing, and connecting front-end, back-end, and MongoDB databases to create full stack web applications.
 </p>
-<p>
-Please <a href='https://github.com/timleungtech#how-to-reach-me'>reach out to me</a> if you need help building out your next product!
-</p>
 
 <h3>How to reach me:</h3>
 <p>
@@ -17,7 +14,7 @@ Please <a href='https://github.com/timleungtech#how-to-reach-me'>reach out to me
 
 <h3>Other links:</h3>
 <a href="https://medium.com/@timleungtech" target="_blank"><img src="https://img.shields.io/badge/medium.com/@timleungtech-0d1117?style=flat-square&logo=medium&labelColor=0d1117" height=25></a><br>
-<a href="https://www.codewars.com/users/timleungtech" target="_blank"><img src="https://img.shields.io/badge/codewars.com/users/timleungtech-0d1117?style=flat-square&logo=codewars&labelColor=0d1117" height=25></a>
+<a href="https://www.codewars.com/users/timleungtech" target="_blank"><img src="https://img.shields.io/badge/codewars.com/users/timleungtech%20%28top%201%25%29-0d1117?style=flat-square&logo=codewars&labelColor=0d1117" height=25></a>
 </p>
 
 <h3>Skills:</h3>
@@ -32,7 +29,8 @@ Please <a href='https://github.com/timleungtech#how-to-reach-me'>reach out to me
 <a href='#'><img src="https://img.shields.io/badge/CSS3-0d1117?style=flat-square&logo=css3&labelColor=0d1117" height=25></a><br>
 <a href='#'><img src="https://img.shields.io/badge/Bootstrap-0d1117?style=flat-square&logo=bootstrap&labelColor=0d1117" height=25></a><br>
 <a href='#'><img src="https://img.shields.io/badge/Tailwind-0d1117?style=flat-square&logo=tailwindcss&labelColor=0d1117" height=25></a><br>
-<a href='#'><img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&labelColor=0d1117" height=25></a>
+<a href='#'><img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&labelColor=0d1117" height=25></a><br>
+<a href='#'><img src="https://img.shields.io/badge/Flask-0d1117?style=flat-square&logo=flask&labelColor=0d1117" height=25></a>
 </p>
 
 <h3>Recent Projects:</h3>
