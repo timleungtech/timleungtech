@@ -87,11 +87,11 @@ I have written JavaScript and Python scripts to automate the manipulation of PDF
       <a href="https://github.com/timleungtech/storybooks"><img src="https://github.com/timleungtech/timleungtech/blob/main/storybooks.gif?raw=true"></a>
       <p>Full stack Storybooks app made with Node, Express, Passport, Google OAuth, MongoDB, Mongoose, Morgan, Handlebars, Sessions/Cookies.</p>
     </td>
-    <td width="30%">
+<!--     <td width="30%">
       <h4>QR Code Generator</h4>
       <a href="https://github.com/timleungtech/qrcodegenerator"><img src="https://github.com/timleungtech/timleungtech/blob/main/qrcodegenerator.png?raw=true"></a>
       <p>Generates QR code with React that instantly repaints the PNG when client changes the state of text input field of the form.</p>
-    </td>
+    </td> -->
   </tr>
   
   <!-- Row 4 -->
