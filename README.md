@@ -23,6 +23,7 @@ I have written JavaScript and Python scripts to automate the manipulation of PDF
 <a href='#'><img src="https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&labelColor=0d1117" height=25></a><br>
 <a href='#'><img src="https://img.shields.io/badge/Node-0d1117?style=flat-square&logo=nodedotjs&labelColor=0d1117" height=25></a><br>
 <a href='#'><img src="https://img.shields.io/badge/Express-0d1117?style=flat-square&logo=express&labelColor=0d1117" height=25></a><br>
+<a href='#'><img src="https://img.shields.io/badge/GraphQL-0d1117?style=flat-square&logo=graphql&labelColor=0d1117" height=25></a><br>
 <a href='#'><img src="https://img.shields.io/badge/Postman-0d1117?style=flat-square&logo=postman&labelColor=0d1117" height=25></a><br>
 <a href='#'><img src="https://img.shields.io/badge/MongoDB-0d1117?style=flat-square&logo=mongodb&labelColor=0d1117" height=25></a><br>
 <a href='#'><img src="https://img.shields.io/badge/HTML5-0d1117?style=flat-square&logo=html5&labelColor=0d1117" height=25></a><br>
