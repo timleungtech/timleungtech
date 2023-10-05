@@ -1,10 +1,6 @@
-<h1>I'm Tim Leung</h1>
+<h1>I'm Tim Leung. </h1>
 
-<h3>A fullstack software engineer based in NYC.</h3>
-
-<p>
-I have written JavaScript and Python scripts to automate the manipulation of PDF files like sorting, filtering, and adding custom watermarks. I built a QR code generator using React and a report generator using data gathered from APIs, as well as parsing data gathered through rendered web pages. I built CRUD apps by writing all the routes in the back-end using Node and Express, Postman for testing, and connecting front-end, back-end, and MongoDB databases to create full stack web applications.
-</p>
+<h2>A fullstack software engineer and AWS certified cloud practitioner based in New York with a proven track record of creating and implementing successful front and back end web applications and a deep interest in web development and cloud solutions.</h2>
 
 <h3>How to reach me:</h3>
 <p>
