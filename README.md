@@ -43,9 +43,9 @@
       <p>Smart Hx is an Electronic Health Records (EHR) app using a Rest API to perform CRUD operations with Node, Express, EJS, MongoDB, and login with Passport, local auth strategy, and Sessions.</p>
     </td>
     <td width="30%">
-      <h4>PDF Processor</h4>
-      <a href="https://github.com/timleungtech/pdfprocessor"><img src="https://github.com/timleungtech/timleungtech/blob/main/pdf-processor-react-flask.png?raw=true"></a>
-      <p>PDF processing web app created with React and Flask that sorts pages of an inputted PDF file by extracting text from each page of the original document.</p>
+      <h4>Knight Quest</h4>
+      <a href="https://github.com/timleungtech/knightquest"><img src="https://github.com/timleungtech/timleungtech/blob/main/knightquest.png?raw=true"></a>
+      <p>Knight Quest is a 2D Platformer game made with Godot Engine and GDScript. Collect coins, jump over obstacles, and defeat the enemies!</p>
     </td>
     <td width="30%">
       <h4>Datadog Landing Page</h4>
@@ -57,6 +57,11 @@
   <!-- Row 2 -->
   <tr>
     <td width="30%">
+      <h4>PDF Processor</h4>
+      <a href="https://github.com/timleungtech/pdfprocessor"><img src="https://github.com/timleungtech/timleungtech/blob/main/pdf-processor-react-flask.png?raw=true"></a>
+      <p>PDF processing web app created with React and Flask that sorts pages of an inputted PDF file by extracting text from each page of the original document.</p>
+    </td>
+    <td width="30%">
       <h4>Storybooks App</h4>
       <a href="https://github.com/timleungtech/storybooks"><img src="https://github.com/timleungtech/timleungtech/blob/main/storybooks.gif?raw=true"></a>
       <p>Full stack Storybooks app made with Node, Express, Passport, Google OAuth, MongoDB, Mongoose, Morgan, Handlebars, Sessions/Cookies.</p>
@@ -66,15 +71,15 @@
       <a href="https://github.com/timleungtech/binary-upload-boom"><img src="https://github.com/timleungtech/timleungtech/blob/main/binaryuploadboom.png?raw=true"></a>
       <p>The 100Devs Social Network. Cloudinary is used for media storage. </p>
     </td>
+  </tr>
+  
+  <!-- Row 3 -->
+  <tr>
     <td width="30%">
       <h4>Pokemon Memory Game</h4>
       <a href="https://timleungtech.github.io/pokemon-memory-game/"><img src="https://github.com/timleungtech/pokemon-memory-game/blob/main/poke-game.gif?raw=true"></a>
       <p>Pokemon memory game. Match all the Pokemon to win! Made with client-side JavaScript.</p>
     </td>
-  </tr>
-  
-  <!-- Row 3 -->
-  <tr>
     <td width="30%">
       <h4>Vibrant Flow Salon</h4>
       <a href="https://vibrantflowsalon.netlify.app/"><img src="https://github.com/timleungtech/timleungtech/blob/main/vibrantflowsalon.png?raw=true"></a>
