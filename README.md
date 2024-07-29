@@ -5,7 +5,7 @@
 <h3>How to reach me:</h3>
 <p>
 <a href="mailto:timleungtech@gmail.com" target="_blank"><img src="https://img.shields.io/badge/timleungtech@gmail.com-0d1117?style=flat-square&logo=gmail&labelColor=0d1117" height=25></a><br>
-<a href="https://twitter.com/timleungtech" target="_blank"><img src="https://img.shields.io/badge/@timleungtech-0d1117?style=flat-square&logo=twitter&labelColor=0d1117" height=25></a><br>
+<a href="https://x.com/timleungtech" target="_blank"><img src="https://img.shields.io/badge/@timleungtech-0d1117?style=flat-square&logo=x&labelColor=0d1117" height=25></a><br>
 <a href="https://www.linkedin.com/in/timleungtech" target="_blank"><img src="https://img.shields.io/badge/linkedin.com/in/timleungtech-0d1117?style=flat-square&logo=linkedin&labelColor=0d1117" height=25></a><br>
 
 <h3>Other links:</h3>
