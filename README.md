@@ -39,7 +39,7 @@
   <tr>
     <td width="30%">
       <h4>Smart Hx App</h4>
-      <a href="https://smarthx.cyclic.app/"><img src="https://github.com/timleungtech/timleungtech/blob/main/smarthxapp.png?raw=true"></a>
+      <a href="https://github.com/smarthxapp/web-app/"><img src="https://github.com/timleungtech/timleungtech/blob/main/smarthxapp.png?raw=true"></a>
       <p>Smart Hx is an Electronic Health Records (EHR) app using a Rest API to perform CRUD operations with Node, Express, EJS, MongoDB, and login with Passport, local auth strategy, and Sessions.</p>
     </td>
     <td width="30%">
