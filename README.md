@@ -67,9 +67,9 @@
       <p>Full stack Storybooks app made with Node, Express, Passport, Google OAuth, MongoDB, Mongoose, Morgan, Handlebars, Sessions/Cookies.</p>
     </td>
     <td width="30%">
-      <h4>Binary Upload Boom</h4>
-      <a href="https://github.com/timleungtech/binary-upload-boom"><img src="https://github.com/timleungtech/timleungtech/blob/main/binaryuploadboom.png?raw=true"></a>
-      <p>The 100Devs Social Network. Cloudinary is used for media storage. </p>
+      <h4>Tenzies</h4>
+      <a href="https://github.com/timleungtech/tenzies"><img src="https://github.com/timleungtech/timleungtech/blob/main/tenzies.png?raw=true"></a>
+      <p>Tenzies game: roll until all dice are the same! Practiced screen reader accessibility via aria-live, aria-pressed, aria-label, and useRef to focus on newGame button. Also used grid, nanoid to assign element keys, and confetti on win.</p>
     </td>
   </tr>
   
