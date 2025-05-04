@@ -6,7 +6,7 @@
 <p>
 <a href="mailto:timleungtech@gmail.com" target="_blank"><img src="https://img.shields.io/badge/timleungtech@gmail.com-0d1117?style=flat-square&logo=gmail&labelColor=0d1117" height=25></a><br>
 <a href="https://x.com/timleungtech" target="_blank"><img src="https://img.shields.io/badge/@timleungtech-0d1117?style=flat-square&logo=x&labelColor=0d1117" height=25></a><br>
-<a href="https://www.linkedin.com/in/timleungtech" target="_blank"><img src="https://img.shields.io/badge/linkedin.com/in/timleungtech-0d1117?style=flat-square&logo=linkedin&labelColor=0d1117" height=25></a><br>
+<a href="https://www.linkedin.com/in/timleungtech" target="_blank"><img src="https://img.shields.io/badge/linkedin.com/in/timleungtech-0d1117?style=flat-square&logo=linkedin-white&labelColor=0d1117" height=25></a><br>
 
 <h3>Other links:</h3>
 <a href="https://medium.com/@timleungtech" target="_blank"><img src="https://img.shields.io/badge/medium.com/@timleungtech-0d1117?style=flat-square&logo=medium&labelColor=0d1117" height=25></a><br>
@@ -17,6 +17,7 @@
 <p>
 <a href='#'><img src="https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&labelColor=0d1117" height=25></a><br>
 <a href='#'><img src="https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&labelColor=0d1117" height=25></a><br>
+<a href='#'><img src="https://img.shields.io/badge/Go-0d1117?style=flat-square&logo=go&labelColor=0d1117" height=25></a><br>
 <a href='#'><img src="https://img.shields.io/badge/Node-0d1117?style=flat-square&logo=nodedotjs&labelColor=0d1117" height=25></a><br>
 <a href='#'><img src="https://img.shields.io/badge/Express-0d1117?style=flat-square&logo=express&labelColor=0d1117" height=25></a><br>
 <a href='#'><img src="https://img.shields.io/badge/GraphQL-0d1117?style=flat-square&logo=graphql&labelColor=0d1117" height=25></a><br>
